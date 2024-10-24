@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generic type, Generic collections/1.0.0": {
+        "runtime": {
+          "Generic type, Generic collections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic type, Generic collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

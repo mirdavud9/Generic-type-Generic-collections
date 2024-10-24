@@ -1,0 +1,14 @@
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\bin\Debug\net6.0\Generic type, Generic collections.exe
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\bin\Debug\net6.0\Generic type, Generic collections.deps.json
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\bin\Debug\net6.0\Generic type, Generic collections.runtimeconfig.json
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\bin\Debug\net6.0\Generic type, Generic collections.dll
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\bin\Debug\net6.0\Generic type, Generic collections.pdb
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.AssemblyInfoInputs.cache
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.AssemblyInfo.cs
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.csproj.CoreCompileInputs.cache
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.dll
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\refint\Generic type, Generic collections.dll
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.pdb
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\Generic type, Generic collections.genruntimeconfig.cache
+C:\Users\Mirdavud\Desktop\Homework\Generic type, Generic collections\Generic type, Generic collections\obj\Debug\net6.0\ref\Generic type, Generic collections.dll
